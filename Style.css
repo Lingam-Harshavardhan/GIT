@@ -95,25 +95,25 @@ p {
     transition: 0.5s;
 }
 .container .clip.clip1{
-    background-image: url("/Assets/Images/img1.jpg");
+    background-image: url("Assets/Images/img1.jpg");
     background-position: center;
     background-size: cover;
     clip-path: polygon(0 0, 53% 0, 53% 38%, 0 63%);
 }
 .container .clip.clip2{
-    background-image: url("/Assets/Images/img3.jpg");
+    background-image: url("Assets/Images/img3.jpg");
     background-position: center;
     background-size: cover;
     clip-path: polygon(55% 0,100% 0,100% 18%,55% 37%);
 }
 .container .clip.clip3{
-    background-image: url("/Assets/Images/img6.jpg");
+    background-image: url("Assets/Images/img6.jpg");
     background-position: center;
     background-size: cover;
     clip-path: polygon(0 66%, 63% 36%, 63% 100%, 0 100%);
 }
 .container .clip.clip4{
-    background-image: url("/Assets/Images/img5.jpg");
+    background-image: url("Assets/Images/img5.jpg");
     background-position: center;
     background-size: cover;
 clip-path: polygon(65% 36%, 100% 21%, 100% 100%, 65% 100%);
